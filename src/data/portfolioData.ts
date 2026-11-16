@@ -172,7 +172,7 @@ export const portfolioData = {
         "Deployed frontend to Vercel and backend microservices"
       ],
       links: {
-        live: "https://bytecraft-ai.vercel.app/login",
+        live: "https://bytecraft-ai.vercel.app/home",
         frontendRepo: "https://github.com/Prasad-Sable/recsys",
         backendRepo: "https://github.com/Prasad-Sable/recsys-backend"
       },

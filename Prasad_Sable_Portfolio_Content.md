@@ -53,7 +53,7 @@ evaluates quizzes, and tracks learning progress using AI.
 **Technologies:** Python, FastAPI, MongoDB, Gemini 2.0 Flash,
 OpenRouter, React, JWT.
 
--   [Live Application](https://bytecraft-ai.vercel.app/login)
+-   [Live Application](https://bytecraft-ai.vercel.app/home)
 -   [Frontend Repository](https://github.com/Prasad-Sable/recsys)
 -   [Backend Repository](https://github.com/Prasad-Sable/recsys-backend)
 
@@ -186,7 +186,7 @@ performance.
 **Tech Stack:** Python, FastAPI, MongoDB, Gemini 2.0 Flash, OpenRouter,
 JWT, React.
 
-**Links:** - [Live Application](https://bytecraft-ai.vercel.app/login) -
+**Links:** - [Live Application](https://bytecraft-ai.vercel.app/home) -
 [Frontend Repository](https://github.com/Prasad-Sable/recsys) - [Backend
 Repository](https://github.com/Prasad-Sable/recsys-backend)
 
