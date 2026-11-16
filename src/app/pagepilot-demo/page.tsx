@@ -56,6 +56,7 @@ export default function PagePilotDemoPage() {
             poster="/images/pagepilot-ai.jpg"
             className="w-full h-full object-contain bg-black"
           >
+            <source src="/pagepilot-ai-demo.mp4" type="video/mp4" />
             <source src="/pagepilot-ai-demo.webm" type="video/webm" />
             Your browser does not support the video tag.
           </video>

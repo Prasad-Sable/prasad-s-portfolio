@@ -66,6 +66,7 @@ export default function CaseStudyModal({ project, onClose }: CaseStudyModalProps
                 poster={project.image}
                 className="w-full h-full object-contain"
               >
+                <source src="/pagepilot-ai-demo.mp4" type="video/mp4" />
                 <source src={project.video} type="video/webm" />
                 Your browser does not support the video tag.
               </video>
